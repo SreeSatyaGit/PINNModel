@@ -33,3 +33,7 @@ checkpoint/
 *.h5
 *.npy
 *.npz
+
+# Tool-specific directories
+.antigravity/
+.agent/
