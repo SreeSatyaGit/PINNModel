@@ -36,4 +36,8 @@ checkpoint/
 
 # Tool-specific directories
 .antigravity/
+.antigravity
 .agent/
+.agent
+.amntigravity/
+.amntigravity
